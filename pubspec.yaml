@@ -24,6 +24,11 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  install_plugin:
+    git:
+      url: https://github.com/Clashkid155/flutter_install_plugin
+      ref: master
+    #path: /home/francis/Projects/flutter_install_plugin/
 
   # Media Playback Packages
   flutter_audio_query: ^0.3.5+6
